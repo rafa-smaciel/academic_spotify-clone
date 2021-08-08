@@ -40,7 +40,7 @@ body {
 /*Navbar*/
 #navbar {
     display: flex;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.5);
     color: white;
     justify-content: center;
     position: fixed;
